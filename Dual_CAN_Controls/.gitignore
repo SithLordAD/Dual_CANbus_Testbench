@@ -1,0 +1,12 @@
+build
+mx.scratch
+build/
+Debug/
+Release/
+.vscode/
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+!.settings
